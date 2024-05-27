@@ -1,3 +1,3 @@
 > **Nota:**
->
-> <a href="https://jonathann-h.github.io/BarraDesplazamiento/" target="_blank">Presione aquí para probar el código</a>
+> 
+> [Presione aquí para probar el código](https://jonathann-h.github.io/BarraDesplazamiento/)
